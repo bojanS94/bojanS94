@@ -10,3 +10,5 @@
 Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 
 - 🔭 I’m currently working on this page. 
+
+[![bojanS94's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
