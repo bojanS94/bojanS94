@@ -15,6 +15,10 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 - ⚡ Fun fact: Im batman... 🦇 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bojanS94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bojan-savi%C4%87-2687a519b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1617214467~hmac=d665cefb16c3e948187eea12798ec6b5)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bojanS94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bojan-savi%C4%87-2687a519b//)  
 
-[![bojanS94's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojanS94)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/bojanS94)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/bojanS94&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/bojanS94) 
