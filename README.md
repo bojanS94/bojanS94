@@ -15,7 +15,7 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 - ⚡ Fun fact: Im batman... 🦇 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bojanS94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/bojan-savi%C4%87-2687a519b)
+[<img src='https://github.com/bojanS94/bojanS94/blob/main/github.svg' alt='github' height='40'>](https://github.com/bojanS94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bojan-savi%C4%87-2687a519b)
 
 ![bojanS94's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojanS94&show_icons=true&theme=dark)
 
