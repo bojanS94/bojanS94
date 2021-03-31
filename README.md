@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bojan
 #### I am 26 year old Web Developer 
-![I am 26 year old Web Developer ](https://miro.medium.com/max/3840/1*cbiq9DqLP_UEVqIOBb6MqQ.jpeg)
+![I am 26 year old Web Developer ](https://github.com/bojanS94/bojanS94/blob/main/1.jpg)
 
 - I am passionate about Frontend Dvelopment 📑 , also:
 - I like gaming 🎮
