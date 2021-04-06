@@ -14,6 +14,13 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 - 👯 I’m looking to collaborate on Various interesting projects 
 - ⚡ Fun fact: Im batman... 🦇 
 
+##Some netlify mini projects:
+- Landers v1 page: https://landersv1.netlify.app/
+- Landers v2 page: https://landersv2.netlify.app/
+- Landers v3 page: https://landersv3.netlify.app/
+- Booklist app bootstrap: https://booklist-app-js.netlify.app/
+- Drumkit JS practice: https://drums-kit-js.netlify.app/
+
 
 [<img src='https://github.com/bojanS94/bojanS94/blob/main/github.svg' alt='github' height='40'>](https://github.com/bojanS94)
 [<img src='https://github.com/bojanS94/bojanS94/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bojan-savi%C4%87-2687a519b)
