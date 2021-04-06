@@ -14,7 +14,7 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 - 👯 I’m looking to collaborate on Various interesting projects 
 - ⚡ Fun fact: Im batman... 🦇 
 
-##Some netlify mini projects:
+### Some netlify mini projects:
 - Landers v1 page: https://landersv1.netlify.app/
 - Landers v2 page: https://landersv2.netlify.app/
 - Landers v3 page: https://landersv3.netlify.app/
