@@ -15,6 +15,7 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 - ⚡ Fun fact: Im batman... 🦇 
 
 #### Few personal mini projects:
+- Nexter grid practice: https://nexter-grid-scss.netlify.app/
 - Trillo project FlexB0x practice: https://bojans94.github.io/FlexB0x/
 - Booklist app bootstrap: https://booklist-app-js.netlify.app/
 - Landers v1 page: https://landersv1.netlify.app/
