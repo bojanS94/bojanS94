@@ -15,6 +15,7 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
 - ⚡ Fun fact: Im batman... 🦇 
 
 #### Few personal mini projects:
+- Simple (reworked) JS dice game: https://dice-game-udemy.netlify.app/
 - Simple guess my number JS game: https://numberguess-game.netlify.app/
 - Nexter grid practice: https://nexter-grid-scss.netlify.app/
 - Trillo project FlexB0x practice: https://bojans94.github.io/FlexB0x/
