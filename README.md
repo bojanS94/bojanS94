@@ -1,16 +1,17 @@
 ## Hi there 👋, my name is Bojan
-### I am 27 year old Web Developer 
+### I am 27 year old Angular & Web Developer 
 ![I am 27 year old Web Developer ](https://github.com/bojanS94/bojanS94/blob/main/1.jpg)
 
 - I am passionate about Frontend Development 📑 , also:
+- UX/UI Design
 - I like gaming 🎮
 - I love music and guitar playing 🎸
 - And most importantly 😅... food and cooking 🍲
 
-Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**
+Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**, Angular, C# (basics), Bootstrap, Tailwind
 
-- 🔭 I’m currently working on My own portfolio 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on Angular project 
+- 🌱 I’m currently learning Typescript and Angular
 - 👯 I’m looking to collaborate on Various interesting projects 
 - ⚡ Fun fact: Im batman... 🦇 
 
