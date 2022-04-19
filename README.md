@@ -16,6 +16,7 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**, Angular, C# (ba
 - ⚡ Fun fact: Im batman... 🦇 
 
 #### Few personal mini projects:
+- Angular medical project: https://github.com/bojanS94/medical-record - pull it :P
 - Simple (reworked) JS dice game: https://dice-game-udemy.netlify.app/
 - Simple guess my number JS game: https://numberguess-game.netlify.app/
 - Nexter grid practice: https://nexter-grid-scss.netlify.app/
