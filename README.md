@@ -28,6 +28,7 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**, Angular, C# (ba
 - Landers v3 page: https://landersv3.netlify.app/
 - Drumkit JS practice: https://drums-kit-js.netlify.app/
 
+
 ![snake gif](https://github.com/bojanS94/bojanS94/blob/output/github-contribution-grid-snake.gif)
 
 [<img src='https://github.com/bojanS94/bojanS94/blob/main/github.svg' alt='github' height='40'>](https://github.com/bojanS94)
