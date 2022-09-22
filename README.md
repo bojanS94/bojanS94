@@ -2,11 +2,8 @@
 ### I am 28 year old Angular & Web Developer 
 ![I am 27 year old Web Developer ](https://github.com/bojanS94/bojanS94/blob/main/1.jpg)
 
-- I am passionate about Frontend Development 📑 , also:
-- UX/UI Design
-- I like gaming 🎮
-- I love music and guitar playing 🎸
-- And most importantly 😅... food and cooking 🍲
+# 💫 About Me:
+I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I like gaming 🎮<br>I love music and guitar playing 🎸<br>And most importantly 😅... food and cooking 🍲
 
 Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**, Angular, C# (basics), Bootstrap, Tailwind
 
@@ -27,9 +24,6 @@ Skills: **HTML / CSS (SCSS, BEM) / JS / JQuery / PHP (Basics)**, Angular, C# (ba
 - Landers v2 page: https://landersv2.netlify.app/
 - Landers v3 page: https://landersv3.netlify.app/
 - Drumkit JS practice: https://drums-kit-js.netlify.app/
-
-# 💫 About Me:
-I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I like gaming 🎮<br>I love music and guitar playing 🎸<br>And most importantly 😅... food and cooking 🍲
 
 
 ## 🌐 Socials:
