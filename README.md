@@ -25,9 +25,9 @@ I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I lik
 - Drumkit JS practice: https://drums-kit-js.netlify.app/
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bojanS94&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bojanS94&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bojanS94&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bojanS94&theme=javascript&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bojanS94&theme=javascript&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bojanS94&theme=javascript&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bojanS94&icon=5&color=0)](https://visitcount.itsvg.in)
