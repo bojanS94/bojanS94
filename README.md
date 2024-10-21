@@ -5,6 +5,8 @@
 # 💫 About Me:
 I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I like gaming 🎮<br>I love music and guitar playing 🎸<br>And most importantly 😅... food and cooking 🍲
 
+<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bojan-savić-2687a519b) 
 
