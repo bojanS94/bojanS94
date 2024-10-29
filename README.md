@@ -27,7 +27,9 @@ I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I lik
 - Drumkit JS practice: https://drums-kit-js.netlify.app/
 
 # 📊 GitHub Stats:
+![bojanS94 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bojanS94)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bojanS94&theme=vue)](https://github.com/bojanS94/github-readme-activity-graph)
 
 ---
+![bojanS94 github-trophies](https://stats.dooboo.io/api/github-trophies?login=bojanS94)
 [![](https://visitcount.itsvg.in/api?id=bojanS94&icon=5&color=0)](https://visitcount.itsvg.in)
