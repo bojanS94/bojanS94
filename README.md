@@ -42,9 +42,7 @@ I am a passionate Frontend Developer with a keen interest in **UX/UI Design**. I
 
 ---
 
-## ⚙ More Projects Coming Soon... ![Clock](https://img.shields.io/badge/clock-%23FFCC00.svg?style=for-the-badge&logo=clock&logoColor=black)
-
-## ⚙ Few Personal Mini Projects
+## ⚙ Few Personal Mini Projects (more comming soon...⏳)
 
 | Project | Technology |
 |---------|------------|
