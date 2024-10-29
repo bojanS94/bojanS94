@@ -1,6 +1,5 @@
 ## Hi there 👋, my name is Bojan
-### I am 30 year old React & Web Developer 
-![I am 27 year old Web Developer ]
+### I am 30 year old React & Web Developer
 <a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
 
 # 💫 About Me:
