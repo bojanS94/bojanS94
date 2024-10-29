@@ -43,17 +43,17 @@ I am a passionate Frontend Developer with a keen interest in **UX/UI Design**. I
 ---
 
 ## ⚙ Few Personal Mini Projects:
-![A](https://img.shields.io/badge/A-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) [Angular Game Database Project](https://github.com/bojanS94/Angular-game-database)  
-![A](https://img.shields.io/badge/A-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) [Angular Medical Project](https://github.com/bojanS94/medical-record) - pull it :P  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Simple (Reworked) JS Dice Game](https://dice-game-udemy.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Simple Guess My Number JS Game](https://numberguess-game.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Nexter Grid Practice](https://nexter-grid-scss.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Trillo Project FlexB0x Practice](https://bojans94.github.io/FlexB0x/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Booklist App Bootstrap](https://booklist-app-js.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Landers v1 Page](https://landersv1.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Landers v2 Page](https://landersv2.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Landers v3 Page](https://landersv3.netlify.app/)  
-![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Drumkit JS Practice](https://drums-kit-js.netlify.app/)
+![Angular](https://img.shields.io/badge/-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) [Angular Game Database Project](https://github.com/bojanS94/Angular-game-database)  
+![Angular](https://img.shields.io/badge/-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) [Angular Medical Project](https://github.com/bojanS94/medical-record) - pull it :P  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Simple (Reworked) JS Dice Game](https://dice-game-udemy.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Simple Guess My Number JS Game](https://numberguess-game.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Nexter Grid Practice](https://nexter-grid-scss.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Trillo Project FlexB0x Practice](https://bojans94.github.io/FlexB0x/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Booklist App Bootstrap](https://booklist-app-js.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Landers v1 Page](https://landersv1.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Landers v2 Page](https://landersv2.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Landers v3 Page](https://landersv3.netlify.app/)  
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [Drumkit JS Practice](https://drums-kit-js.netlify.app/)
 
 ---
 
