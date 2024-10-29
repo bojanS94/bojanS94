@@ -1,11 +1,12 @@
 ## Hi there 👋, my name is Bojan
 ### I am 30 year old React & Web Developer 
-![I am 27 year old Web Developer ](https://github.com/bojanS94/bojanS94/blob/main/1.jpg)
+![I am 27 year old Web Developer ]
+<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
 
 # 💫 About Me:
 I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I like gaming 🎮<br>I love music and guitar playing 🎸<br>And most importantly 😅... food and cooking 🍲
 
-<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bojan-savić-2687a519b) [![](https://visitcount.itsvg.in/api?id=bojanS94&icon=5&color=0)](https://visitcount.itsvg.in)
