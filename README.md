@@ -1,16 +1,21 @@
-## Hi there 👋, my name is Bojan
-### I am 30 year old React & Web Developer
-<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
+## Hi there 👋, I'm Bojan
 
-# 💫 About Me:
-I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I like gaming 🎮<br>I love music and guitar playing 🎸<br>And most importantly 😅... food and cooking 🍲
+### A 30-year-old React & Web Developer
+<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bojan-savić-2687a519b) [![](https://visitcount.itsvg.in/api?id=bojanS94&icon=5&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me
+I am a passionate Frontend Developer with a keen interest in **UX/UI Design**. I love gaming 🎮, playing the guitar 🎸, and most importantly, cooking delicious food 🍲. With a strong focus on modern web technologies, I thrive in creating engaging user experiences.
 
-# 💻 Tech Stack:
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bojan-savić-2687a519b) [![Visitor Count](https://visitcount.itsvg.in/api?id=bojanS94&icon=5&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,22 +40,27 @@ I am passionate about Frontend Development 📑 , also:<br>UX/UI Design<br>I lik
 ![Elementor](https://img.shields.io/badge/elementor-%23d71a60.svg?style=for-the-badge&logo=elementor&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-# ⚙ Few personal mini projects:
-- Angular game database project: https://github.com/bojanS94/Angular-game-database
-- Angular medical project: https://github.com/bojanS94/medical-record - pull it :P
-- Simple (reworked) JS dice game: https://dice-game-udemy.netlify.app/
-- Simple guess my number JS game: https://numberguess-game.netlify.app/
-- Nexter grid practice: https://nexter-grid-scss.netlify.app/
-- Trillo project FlexB0x practice: https://bojans94.github.io/FlexB0x/
-- Booklist app bootstrap: https://booklist-app-js.netlify.app/
-- Landers v1 page: https://landersv1.netlify.app/
-- Landers v2 page: https://landersv2.netlify.app/
-- Landers v3 page: https://landersv3.netlify.app/
-- Drumkit JS practice: https://drums-kit-js.netlify.app/
+---
 
-# 📊 GitHub Stats:
+## ⚙ Few Personal Mini Projects:
+- [Angular Game Database Project](https://github.com/bojanS94/Angular-game-database)
+- [Angular Medical Project](https://github.com/bojanS94/medical-record) - pull it :P
+- [Simple (Reworked) JS Dice Game](https://dice-game-udemy.netlify.app/)
+- [Simple Guess My Number JS Game](https://numberguess-game.netlify.app/)
+- [Nexter Grid Practice](https://nexter-grid-scss.netlify.app/)
+- [Trillo Project FlexB0x Practice](https://bojans94.github.io/FlexB0x/)
+- [Booklist App Bootstrap](https://booklist-app-js.netlify.app/)
+- [Landers v1 Page](https://landersv1.netlify.app/)
+- [Landers v2 Page](https://landersv2.netlify.app/)
+- [Landers v3 Page](https://landersv3.netlify.app/)
+- [Drumkit JS Practice](https://drums-kit-js.netlify.app/)
+
+---
+
+## 📊 GitHub Stats:
 ![bojanS94 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bojanS94)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bojanS94&theme=vue)](https://github.com/bojanS94/github-readme-activity-graph)
 
 ---
+
 ![bojanS94 github-trophies](https://stats.dooboo.io/api/github-trophies?login=bojanS94)
