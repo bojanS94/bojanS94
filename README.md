@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm React & Web Developer
 -------------------------
-<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?r=y3y&type=default" width="356" alt="Bojan Savić's Dev Card"/></a>
--------------------------
+<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
 
 I am a passionate Frontend Developer with a keen interest in UX/UI Design. I love gaming 🎮, playing the guitar 🎸, and most importantly, cooking delicious food 🍲. With a strong focus on modern web technologies, I thrive in creating engaging user experiences.
 
@@ -12,8 +11,7 @@ I am a passionate Frontend Developer with a keen interest in UX/UI Design. I lov
 * ✉️  You can contact me at [bojan.94.savic@gmail.com](mailto:bojan.94.savic@gmail.com)
 * 🧠  I'm learning React, Node.js, Next.js
 * 🤝  I'm open to collaborating on Frontend projects
-
-<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
+  
 ### Skills
 
 <p align="left">
