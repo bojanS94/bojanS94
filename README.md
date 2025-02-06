@@ -13,8 +13,7 @@ I am a passionate Frontend Developer with a keen interest in UX/UI Design. I lov
 * 🧠  I'm learning React, Node.js, Next.js
 * 🤝  I'm open to collaborating on Frontend projects
 
-<a href="https://www.github.com/bojanS94" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bojanS94?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
+<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
 ### Skills
 
 <p align="left">
