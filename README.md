@@ -53,7 +53,7 @@
 ### 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bojanS94)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojan-savic-frontend/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bojan-savic-frontend/](https://www.linkedin.com/in/bojans94/))
 <!-- Add more socials if you wish -->
 
 ---
