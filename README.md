@@ -1,85 +1,87 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://git.io/typing-svg)
-------------------------------------------------------
-<a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://github.com/bojanS94)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=3000&color=F7F7F7&width=435&lines=I+am+a+passionate+Frontend+Developer;with+a+keen+interest+in+UX%2FUI+Design.;I+love+gaming+%F0%9F%8E%AE%2C+playing+the+guitar+%F0%9F%8E%B8%2C;and+most+importantly%2C+cooking+delicious+food+%F0%9F%8D%B2.;With+a+strong+focus+on+modern+web+technologies%2C;I+thrive+in+creating+engaging+user+experiences.)](https://git.io/typing-svg)
+---
 
-* 🌍  I'm based in Banja Luka
-* ✉️  You can contact me at [bojan.94.savic@gmail.com](mailto:bojan.94.savic@gmail.com)
-* 🧠  I'm learning React, Node.js, Next.js
-* 🤝  I'm open to collaborating on Frontend projects
-  
-### Skills
+<a href="https://app.daily.dev/bojans">
+  <img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="300" alt="Bojan Savić's Dev Card"/>
+</a>
 
-<p style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-start;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-  <a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
-</p>
+---
 
-<img width="100%" height="100%" src="animated-laptop.gif" width="36" height="36" alt="JavaScript" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=3000&color=F7F7F7&width=435&lines=I+am+a+passionate+Frontend+Developer;with+a+keen+interest+in+UX%2FUI+Design)](https://github.com/bojanS94)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/bojanS94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bojans94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BojanS93" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### 👋 About Me
 
-<b>My GitHub Stats</b>
+- 🌍  I'm based in Banja Luka
+- ✉️  You can contact me at [bojan.94.savic@gmail.com](mailto:bojan.94.savic@gmail.com)
+- 🧠  I'm learning React, Node.js, Next.js
+- 🤝  I'm open to collaborating on Frontend projects
 
-<a href="http://www.github.com/bojanS94"><img src="https://github-readme-stats.vercel.app/api?username=bojanS94&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="bojanS94's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/bojanS94"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bojanS94&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠️ Skills
 
-<a href="http://www.github.com/bojanS94"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bojanS94&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-<a href="https://github.com/bojanS94" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bojanS94&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-## ⚙ Few Personal Mini Projects (more comming soon...⏳)
+<img src="animated-laptop.gif" alt="Animated Laptop" style="max-width: 400px; width: 100%;" />
+
+---
+
+### 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bojanS94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojan-savic-frontend/)
+<!-- Add more socials if you wish -->
+
+---
+
+### 📊 GitHub Stats
+
+![bojanS94's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojanS94&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bojanS94&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=3382ed&dates=ffffff&hide_border=true)
+![bojanS94 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bojanS94)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bojanS94&theme=vue)](https://github.com/bojanS94/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bojanS94)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### ⚙️ Featured Projects
 
 | Project | Technology |
 |---------|------------|
-| [Angular Game Database Project](https://github.com/bojanS94/Angular-game-database) | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
-| [Angular Medical Project](https://github.com/bojanS94/medical-record) - pull it :P | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
-| [Simple (Reworked) JS Dice Game](https://dice-game-udemy.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Simple Guess My Number JS Game](https://numberguess-game.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Nexter Grid Practice](https://nexter-grid-scss.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Trillo Project FlexB0x Practice](https://bojans94.github.io/FlexB0x/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Booklist App Bootstrap](https://booklist-app-js.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Landers v1 Page](https://landersv1.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Landers v2 Page](https://landersv2.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Landers v3 Page](https://landersv3.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [Drumkit JS Practice](https://drums-kit-js.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| [Angular Game Database Project](https://github.com/bojanS94/Angular-game-database) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| [Angular Medical Project](https://github.com/bojanS94/medical-record) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| [Simple (Reworked) JS Dice Game](https://dice-game-udemy.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Simple Guess My Number JS Game](https://numberguess-game.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Nexter Grid Practice](https://nexter-grid-scss.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Trillo Project FlexB0x Practice](https://bojans94.github.io/FlexB0x/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Booklist App Bootstrap](https://booklist-app-js.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Landers v1 Page](https://landersv1.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Landers v2 Page](https://landersv2.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Landers v3 Page](https://landersv3.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| [Drumkit JS Practice](https://drums-kit-js.netlify.app/) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
 
 ---
-
-## 📊 GitHub Stats:
-![bojanS94 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bojanS94)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bojanS94&theme=vue)](https://github.com/bojanS94/github-readme-activity-graph)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bojanS94)](https://github.com/ryo-ma/github-profile-trophy)
