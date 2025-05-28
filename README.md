@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://git.io/typing-svg)
 ------------------------------------------------------
 <a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
 
