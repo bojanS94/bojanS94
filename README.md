@@ -2,7 +2,7 @@
 ------------------------------------------------------
 <a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
 
-I am a passionate Frontend Developer with a keen interest in UX/UI Design. I love gaming 🎮, playing the guitar 🎸, and most importantly, cooking delicious food 🍲. With a strong focus on modern web technologies, I thrive in creating engaging user experiences.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&width=435&lines=I+am+a+passionate+Frontend+Developer+with+a+keen+interest+in+UX%2FUI+Design.+I+love+gaming+%F0%9F%8E%AE%2C+playing+the+guitar+%F0%9F%8E%B8%2C+and+most+importantly%2C+cooking+delicious+food+%F0%9F%8D%B2.+With+a+strong+focus+on+modern+web+technologies%2C+I+thrive+in+creating+engaging+user+experiences.)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Banja Luka
 * ✉️  You can contact me at [bojan.94.savic@gmail.com](mailto:bojan.94.savic@gmail.com)
