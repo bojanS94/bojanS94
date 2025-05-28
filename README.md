@@ -85,4 +85,4 @@ I am a passionate Frontend Developer with a keen interest in UX/UI Design. I lov
 
 ---
 
-![bojanS94 github-trophies](https://stats.dooboo.io/api/github-trophies?login=bojanS94)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bojanS94)](https://github.com/ryo-ma/github-profile-trophy)
