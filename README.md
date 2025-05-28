@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://git.io/typing-svg)
+------------------------------------------------------
 <a href="https://app.daily.dev/bojans"><img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="356" alt="Bojan Savić's Dev Card"/></a>
 
 I am a passionate Frontend Developer with a keen interest in UX/UI Design. I love gaming 🎮, playing the guitar 🎸, and most importantly, cooking delicious food 🍲. With a strong focus on modern web technologies, I thrive in creating engaging user experiences.
