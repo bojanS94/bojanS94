@@ -1,6 +1,5 @@
-Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="45" height="45" /> My name is Bojan Savić
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi!;My+name+is+Bojan+Savi%C4%87;I'm+React+%26+Web+Developer)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="45" height="45" />
 ===================================================================================================================================
 
 I'm React & Web Developer
