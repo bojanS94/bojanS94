@@ -61,10 +61,9 @@
 ### 📊 GitHub Stats
 
 ![bojanS94's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojanS94&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bojanS94&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=3382ed&dates=ffffff&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bojans94)](https://git.io/streak-stats)
 ![bojanS94 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bojanS94)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bojanS94&theme=vue)](https://github.com/bojanS94/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bojans94)](https://git.io/streak-stats)
 
 ---
 
