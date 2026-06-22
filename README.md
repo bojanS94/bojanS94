@@ -64,6 +64,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bojans94)](https://git.io/streak-stats)
 ![bojanS94 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bojanS94)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bojanS94&theme=vue)](https://github.com/bojanS94/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bojans94)](https://github.com/bojans94/github-profile-trophy)
 
 ---
 
