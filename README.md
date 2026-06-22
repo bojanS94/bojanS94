@@ -1,9 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&width=500&lines=Hi%2C+I'm+Bojan+Savi%C4%87;Full-stack+developer+%E2%80%94+React+%2B+Node.js;I+build+things+for+the+web)](https://github.com/bojanS94)
 
-I build full-stack web apps with React and Node.js. Based in Banja Luka 🇧🇦
+I build full-stack web apps with React and Node.js, plus WordPress/PHP sites and automation workflows. Based in Banja Luka 🇧🇦
 Currently going deeper on Next.js and backend architecture.
 
-📫 **[bojan.94.savic@gmail.com](mailto:bojan.94.savic@gmail.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bojans94/) &nbsp;·&nbsp; [daily.dev](https://app.daily.dev/bojans)
+📫 **[bojan.94.savic@gmail.com](mailto:bojan.94.savic@gmail.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bojans94/)
+
+<a href="https://app.daily.dev/bojans">
+  <img src="https://api.daily.dev/devcards/v2/snNteHi51r7txAzKSZ7vm.png?type=default&r=mck" width="300" alt="Bojan Savić's Dev Card"/>
+</a>
 
 ---
 
@@ -13,6 +17,7 @@ Currently going deeper on Next.js and backend architecture.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -26,9 +31,15 @@ Currently going deeper on Next.js and backend architecture.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Tooling**
+**CMS & Tooling**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**AI & Automation**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4785?style=flat&logo=lovable&logoColor=white)
 
 ---
 
